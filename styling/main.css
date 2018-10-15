@@ -1,0 +1,40 @@
+:root {
+    --main-bg-color: #FFFFFF;
+    --main-element-color: #E8E8E8;
+    --main-txt-color: #666666;
+    --main-decorative-color: #4029BD;
+    --secondary-decorative-color: #E8600B;
+    --main-padding: 1.5rem; 
+}
+
+body {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: var(--main-padding);
+}
+
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#container-logo {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav {
+    background: var(--main-element-color);
+    margin: 2rem 0;
+}
+
+nav a {
+    display: inline-block;
+    color: var(--main-txt-color);
+    padding: var(--main-padding);
+    list-style-type: none;    
+}
+
+nav a:last-child {
+    float: right;
+}

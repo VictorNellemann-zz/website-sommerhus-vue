@@ -1,0 +1,17 @@
+p {
+    color: var(--main-text-color);
+    margin-bottom: 0.5rem;
+}
+
+a {
+    text-decoration: none;
+    color: var(--secondary-decorative-color);
+}
+
+h1 {
+    color: var(--main-decorative-color);
+    font-size: 2rem;
+    font-family: 'Noto Serif', Georgia, 'Times New Roman', Times, serif;
+    margin-top: 0.7rem;
+    margin-bottom: 0.3rem;
+}

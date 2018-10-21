@@ -1,4 +1,11 @@
-    <div id="main" class="wrapper">
-        <h1>Forside</h1>
+    <div id="main" class="wrapper padding-sides">
+        <h1>2012-17: Mod nye højder</h1>
+        <h2>I en periode med skiftende trænere og stor udskiftning af spillere bevarede løverne Top 2-placeringerne og grundlagde langsomt men sikkert et nyt fundament for national og international succes.</h2>
+        <p>Efter 2010/11-sæsonen søgte trænerteamet og halvdelen af stamspillerne udenlands til nye udfordringer, og selv om mikset mellem nye og gamle spillere endnu ikke var helt på plads, leverede løverne flotte resultater i Superligaen og kvalificerede sig for sjette gang i træk til et europæisk gruppespil.</p>
+        <p>I vinterpausen valgte ledelsen at skille sig af med Roland Nilsson, og i stedet overtog sportsdirektør Carsten V. Jensen også rollen som cheftræner. Langt hen på foråret så det ud til, at mesterskabet ville blive genvundet, men det endte med sølvmedaljer og en sejr i pokalfinalen.</p>
+        <p>I sommeren 2012 blev belgieren Ariël Jacobs ny cheftræner, og han førte klubben til endnu et dansk mesterskab, hvilket automatisk kvalificerede klubben til Champions League-gruppespil. Men indledningen på sæsonen 13/14 blev klubbens dårligste nogensinde med fem kampe uden sejr. Det kostede Ariël Jacobs jobbet, og i stedet vendte Ståle Solbakken tilbage.</p>
+        <p>Det gik hæderligt i en vanskelig Champions League-gruppe, og i ligaen blev det trods den dårlige start til en acceptabel andenplads efter AaB. Ståle var – langsomt, men sikkert – begyndt på en større udskiftning i spillertruppen samt en omstrukturering og styrkelse af hele staben omkring holdet. Sæsonen 14/15 gav også sølvmedaljer, men så begyndte toget for alvor at køre, og selv om man for første gang siden 2006 kiksede et europæisk gruppespil, var løverne ikke til at stoppe på dansk græs og sikrede sig The Double i foråret 2016.</p>
+        <p>I 16/17-sæsonen tog klubben yderligere et markant skridt opad og havde efter 33 Superliga-kampe samme utrolige pointtal (81) som i 2010/11-sæsonen - og var endda stadig ubesejrede. I Europa kom man for fjerde gang på 10 år i Champions League-gruppespillet, hvilket der ikke er mange klubber uden for de helt store ligaer, der kan prale af. Efter nytår nåede man videre til 1/8-finalerne i Europa League, hvor de senere finalister fra Ajax blev for stærke.</p>
+        <p>Men mesterskabet blev kørt stensikkert hjem og tilmed vandt løverne pokalen for tredje sæson i træk efter en intens finale mod Brøndby.</p>
     </div>
 </html>

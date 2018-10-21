@@ -1,8 +1,8 @@
 <!-- if ($loggedin) -->
 <div id='header' class="wrapper">
-    <div id='container-logo'>
-        <span>Sommerhuset</span>
-        <a href='../controller/admin.php'><?php echo $userstr ?></a>
+    <div id='container-logo' class="padding-sides">
+        <span id="logo">Sommerhuset</span>
+        <a href='../controller/admin.php'><?php var_dump($users); ?></a>
     </div>
     <nav id='navigation-container'>
         <a href='./'>Forside</a>

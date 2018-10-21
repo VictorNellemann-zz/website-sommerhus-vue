@@ -3,7 +3,7 @@
     --main-element-color: #E8E8E8;
     --main-txt-color: #666666;
     --main-decorative-color: #4029BD;
-    --secondary-decorative-color: #E8600B;
+    --secondary-decorative-color: rgb(173, 95, 46);
     --main-padding: 1.5rem; 
 }
 
@@ -18,9 +18,19 @@ body {
     margin: 0 auto;
 }
 
+.padding-sides {
+    padding: 0 1rem;
+    box-sizing: border-box;
+}
+
 #container-logo {
     display: flex;
     justify-content: space-between;
+    align-content: center;
+}
+
+#container-logo > a {
+    align-self: center;
 }
 
 nav {
